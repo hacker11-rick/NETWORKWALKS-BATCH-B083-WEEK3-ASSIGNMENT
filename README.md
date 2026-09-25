@@ -45,3 +45,21 @@ I managed to crack passwords with the two modules thanks to the guidance of Netw
 ## Disclaimer
 
 All cracking was performed in the authorized NetworkWalks environment.
+
+## Assignment Images
+
+- ![page-1-image-1](./images/page-1-image-1.png)
+- ![page-1-image-2](./images/page-1-image-2.png)
+- ![page-1-image-3](./images/page-1-image-3.png)
+- ![page-1-image-4](./images/page-1-image-4.png)
+- ![page-1-image-5](./images/page-1-image-5.png)
+- ![page-1-image-6](./images/page-1-image-6.png)
+- ![page-2-image-1](./images/page-2-image-1.png)
+- ![page-2-image-2](./images/page-2-image-2.png)
+- ![page-2-image-3](./images/page-2-image-3.png)
+- ![page-2-image-4](./images/page-2-image-4.png)
+- ![page-3-image-1](./images/page-3-image-1.png)
+- ![page-3-image-2](./images/page-3-image-2.png)
+- ![page-3-image-3](./images/page-3-image-3.png)
+- ![page-3-image-4](./images/page-3-image-4.png)
+- ![page-3-image-5](./images/page-3-image-5.png)
